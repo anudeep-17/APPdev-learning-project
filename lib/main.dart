@@ -11,10 +11,11 @@ void main() =>  runApp(MyApp());
 
  class MyApp extends StatelessWidget
  {
+   var questionindex = 0;
    @override
    Widget build(BuildContext context)
    {
-     var questions = ["whats\'s your favourite color? " , "whats your favourite animal?"];
+     var questions = ["what\'s your favourite color? " , "what\'s your favourite animal?"];
 
 
     return MaterialApp(home: Scaffold(
@@ -28,10 +29,10 @@ void main() =>  runApp(MyApp());
       (
         children:
        [
-         Text('the question'),
+         Text(questions[questionindex]),
          RaisedButton(child: Text('answer1'), onPressed: answerQuestion),
-          RaisedButton(child: Text('answer1'), onPressed: answerQuestion),
-          RaisedButton(child: Text('answer1'), onPressed: answerQuestion)
+          RaisedButton(child: Text('answer2'), onPressed: () => print('answer2 chosen')),
+          RaisedButton(child: Text('answer3'), onPressed: () {print('answer3 chosen');},)
         ],
       ),
 
@@ -41,6 +42,17 @@ void main() =>  runApp(MyApp());
 
    void answerQuestion()
    {
-     print('answer chosen');
+     if(questionindex == 1) {
+       questionindex = questionindex + 1;
+     }
+     else if(questionindex == 2)
+       {
+         questionindex = 1;
+       }
+     else
+       {
+         questionindex=0;
+       }
+     print(questionindex);
    }
  }
