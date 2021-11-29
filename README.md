@@ -1,16 +1,18 @@
-# flutter_complete_guide
+# APP DEV LEARNING PROJECTS
 
-flutter app guide for understading the process
+this contains the projects that I will be making through the process of learning flutter, kotlin and java in android studio.
+<br/>
+Do check my coming repos for designed projects in them.<br/>
 
-## Getting Started
+**resources I use for learning*
+<sub><sup>(change basing on concurrency)</sup></sub> <br/>
+flutter : https://www.youtube.com/watch?v=x0uinJvhNxI <br/>
+kotlin and java : check UDEMY.<br/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<br/><br/><br/><br/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+<img src="https://img.icons8.com/color/48/000000/flutter.png"  width="40px"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40px"/><img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40px"/><img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" width="40px"/>
