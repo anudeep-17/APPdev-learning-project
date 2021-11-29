@@ -3,8 +3,10 @@
 this contains the projects that I will be making through the process of learning flutter, kotlin and java in android studio.
 <br/>
 Do check my coming repos for designed projects in them.<br/>
+> <a href="https://github.com/anudeep-17/APPdev-learning-project/tree/branch1"> visit branch1 </a> <br/>
 
-**resources I use for learning*
+
+***Resources I use for learning*
 <sub><sup>(change basing on concurrency)</sup></sub> <br/>
 flutter : https://www.youtube.com/watch?v=x0uinJvhNxI <br/>
 kotlin and java : check UDEMY.<br/>
