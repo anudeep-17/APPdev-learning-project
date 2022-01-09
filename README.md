@@ -11,6 +11,8 @@ Do check my coming repos for designed projects in them.<br/>
 flutter : https://www.youtube.com/watch?v=x0uinJvhNxI <br/>
 kotlin and java : check UDEMY.<br/>
 
+how to publish app on appstore : https://www.youtube.com/watch?v=akFF1uJWZck
+
 
 
 <br/><br/><br/><br/>
