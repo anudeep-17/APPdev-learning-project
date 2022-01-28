@@ -13,6 +13,12 @@ kotlin and java : check UDEMY.<br/>
 
 how to publish app on appstore : https://www.youtube.com/watch?v=akFF1uJWZck
 
+flutter :
+
+https://www.youtube.com/watch?v=1xPMbwOFa9I<br/>
+https://www.youtube.com/watch?v=HGkbPrTSndM<br/>
+https://www.youtube.com/watch?v=GwDMwnELTP4<br/>
+
 
 
 <br/><br/><br/><br/>
@@ -20,3 +26,4 @@ how to publish app on appstore : https://www.youtube.com/watch?v=akFF1uJWZck
 
 
 <img src="https://img.icons8.com/color/48/000000/flutter.png"  width="40px"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40px"/><img src="https://img.icons8.com/color/48/000000/kotlin.png" width="40px"/><img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" width="40px"/>
+
